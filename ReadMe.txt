@@ -1,0 +1,3 @@
+Space Efficient Approach:
+
+In this approach, we are having a single array named as 'a'. In this case, stack1 starts from 0 while stack2 starts from n-1. Both the stacks start from the extreme corners, i.e., Stack1 starts from the leftmost corner (at index 0), and Stack2 starts from the rightmost corner (at index n-1). Stack1 extends in the right direction, and stack2 extends in the left direction, 
